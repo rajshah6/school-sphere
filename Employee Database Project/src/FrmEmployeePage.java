@@ -693,7 +693,7 @@ public class FrmEmployeePage extends javax.swing.JFrame {
         arraylist.clear();//clears the arraylist
         try {
             // Open the file for reading 
-            BufferedReader read = new BufferedReader(new FileReader("employees.txt"));
+            BufferedReader read = new BufferedReader(new FileReader("Employee Database Project//employees.txt"));
             
             String line;
             
@@ -716,7 +716,7 @@ public class FrmEmployeePage extends javax.swing.JFrame {
         
         try {
             // Open the file
-            BufferedWriter write = new BufferedWriter(new FileWriter("employees.txt"));
+            BufferedWriter write = new BufferedWriter(new FileWriter("Employee Database Project//employees.txt"));
 
             for (Employee employee : arraylist) {
                 // Write each employee's information
