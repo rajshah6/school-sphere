@@ -551,7 +551,7 @@ public class FrmInventoryPage extends javax.swing.JFrame {
         arraylist.clear();//clears the arraylist
         try {
             // Open the file for reading 
-            BufferedReader read = new BufferedReader(new FileReader("items.txt"));
+            BufferedReader read = new BufferedReader(new FileReader("Employee Database Project//items.txt"));
             
             String line;
             
@@ -575,7 +575,7 @@ public class FrmInventoryPage extends javax.swing.JFrame {
     {
         try {
             // Open the file
-            BufferedWriter write = new BufferedWriter(new FileWriter("items.txt"));
+            BufferedWriter write = new BufferedWriter(new FileWriter("Employee Database Project//items.txt"));
 
             for (Item item : arraylist) {
                 // Write each employee's information
