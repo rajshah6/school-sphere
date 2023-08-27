@@ -1,3 +1,3 @@
 # EmployeeDatabase
 
-This is an example of a school database made to help schools organize their employees and students. This project was created for the hackathon, All Inclusive Hacks 2023. To use the program, download all the files, open them through a Java IDE, and run the program.
+This is an example of a school database made to help schools organize their employees and students. This project was created for the hackathon, All Inclusive Hacks 2023. To use the program, download all the files, open them through a Java IDE, and run the file "FrmMainPage.java".
