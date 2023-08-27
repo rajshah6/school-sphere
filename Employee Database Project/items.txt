@@ -1,0 +1,5 @@
+1,15,12,3,Grade 10 Math Book
+12,15,12,3,headphones
+15,2000,158,1842,pencil
+126,35,33,2,bicycle
+473,500,28,472,chrombook
