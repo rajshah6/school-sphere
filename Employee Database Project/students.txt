@@ -1,5 +1,0 @@
-Mary,Haley,31/10/2007,mary.haley8@tdsb.on.ca,329185983,11,Joseph Haley,jhaley@yahoo.com,2351295827,52.9
-Keting,Trinh,05/07/2006,keting.trinh@student.tdsb.on.ca,335056214,12,Patty Trinh,ptrinh@gmail.com,4186928592,99.0
-Keting,Trinh,31/08/2006,keting.trinh2@student.tdsb.on.ca,335056215,12,Jason Trinh,jasontrinh@hotmail.com,4161059282,68.0
-Emma,King,28/02/2009,emma.king2@student.tdsb.on.ca,368195829,9,Jennifer Tse,jentse25@hotmail.com,6471958295,88.7
-John,Bob,28/05/2008,john.bob@student.tdsb.on.ca,370817265,10,Jim Bob,jimbobb33@gmail.com,3918592952,97.3
