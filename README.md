@@ -1,9 +1,5 @@
 # school-sphere
-This is an example of a school database made to help schools organize their employees and students. Apache NetBeans 18 was used to create the program. 
-
-IMPORTANT: To use the program, download all the files, open them through Apache NetBeans, and run the file "FrmMainPage.java" located inside the "src" folder. 
-
-Access the added employees, students, and inventory through their respective .txt files located in the main directory.
+To use the program, download all the files, open them through Apache NetBeans, and run the file "FrmMainPage.java" located inside the "src" folder. Access the added employees, students, and inventory through their respective .txt files located in the main directory.
 
 [Apache NetBeans Download](https://netbeans.apache.org/front/main/download/)
 
