@@ -1,6 +1,6 @@
 <div align="center">
 
-# Employee, Student, and Inventory Management System
+# SchoolSphere
 
 </div>
 
