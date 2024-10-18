@@ -13,16 +13,14 @@ This program allows you to manage employees, students, and inventory efficiently
 - Track and manage inventory
 - Data stored in easy-to-access `.txt` files
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 
 To run this program, you will need:
 
 - [Apache NetBeans](https://netbeans.apache.org/front/main/download/) installed on your machine.
 - Java JDK (ensure your NetBeans installation is compatible with the version of Java you're using).
 
-### Installation
+## Installation
 
 1. Clone this repository to your local machine:
 
