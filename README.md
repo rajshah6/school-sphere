@@ -26,6 +26,3 @@ To run this program, you will need:
 
    ```bash
    git clone https://github.com/your-username/repository-name.git
-
-
-
