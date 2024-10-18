@@ -19,7 +19,7 @@ This program allows you to manage employees, students, and inventory efficiently
 
 To run this program, you will need:
 
-- [Apache NetBeans](# Employee, Student, and Inventory Management System
+- [Apache NetBeans](https://netbeans.apache.org/front/main/download/)
 
 This program allows you to manage employees, students, and inventory efficiently. You can add, view, and manage records through the program, and access the data through respective `.txt` files.
 
