@@ -25,7 +25,7 @@ To run this program, you will need:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/rajshah6/school-sphere
    ```
 
 2.	Open Apache NetBeans on your system.
