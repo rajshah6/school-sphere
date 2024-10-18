@@ -36,8 +36,11 @@ To run this program, you will need:
 
 ## Accessing Data
 
-•  Employee records, student records, and inventory information are saved in .txt files located in the main directory.
-•  After running the program, you can view or edit these records by opening the .txt files with any text editor.
-•  Employee Data: employees.txt
-•  Student Data: students.txt
-•  Inventory Data: inventory.txt
+- Employee records, student records, and inventory information are saved in `.txt` files located in the main directory.
+- After running the program, you can view or edit these records by opening the `.txt` files with any text editor.
+
+### Files
+
+- **Employee Data**: `employees.txt`
+- **Student Data**: `students.txt`
+- **Inventory Data**: `inventory.txt`
