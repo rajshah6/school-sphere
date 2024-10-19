@@ -34,6 +34,23 @@ To run this program, you will need:
 5.	Open the file `FrmMainPage.java`.
 6.	To run the program, click the green **Run** button or press **F6**.
 
+### Alternatively:
+#### Clone the Repository
+```bash
+git clone https://github.com/rajshah6/school-sphere
+   ```
+
+#### Navigate into the Cloned Repository
+```bash
+cd school-sphere-main
+```
+
+#### Compile the Java Program
+```bash
+cd src
+javac FrmMainPage.java
+```
+
 ## Accessing Data
 
 - Employee records, student records, and inventory information are saved in `.txt` files located in the main directory.
