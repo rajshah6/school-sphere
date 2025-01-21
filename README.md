@@ -22,19 +22,6 @@ To run this program, you will need:
 
 ## Installation
 
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/rajshah6/school-sphere
-   ```
-
-2.	Open Apache NetBeans on your system.
-3.	In Apache NetBeans, click **File** -> **Open Project** and navigate to the folder where you cloned the repository. Select the project and click Open Project.
-4.	Once the project is opened, navigate to the `src` folder inside the project directory.
-5.	Open the file `FrmMainPage.java`.
-6.	To run the program, click the green **Run** button or press **F6**.
-
-### Alternatively:
 #### Clone the Repository
 ```bash
 git clone https://github.com/rajshah6/school-sphere
@@ -48,7 +35,7 @@ cd school-sphere-main
 #### Compile the Java Program
 ```bash
 cd src
-javac FrmMainPage.java
+java FrmMainPage.java
 ```
 
 ## Accessing Data
